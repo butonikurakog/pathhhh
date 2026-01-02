@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pandan Beach Resort",
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT"],
+        "description": "A beach resort in Pandan",
+        "municipality": "PANDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.17234, 13.71234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Immaculate Conception Parish Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "A historic parish church in Pandan",
+        "municipality": "PANDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.16789, 13.70456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabugao Gamay Island",
+        "categories": ["ISLAND", "VIEWPOINT"],
+        "description": "A small island near Pandan",
+        "municipality": "PANDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.18567, 13.72345]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Andres Beach",
+        "categories": ["BEACH"],
+        "description": "A beautiful beach in San Andres",
+        "municipality": "SAN ANDRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.05678, 13.65234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahulugan Falls",
+        "categories": ["WATERFALL", "NATURE"],
+        "description": "A scenic waterfall in San Andres",
+        "municipality": "SAN ANDRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.06234, 13.66789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Andres Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "A historic church in San Andres",
+        "municipality": "SAN ANDRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.05234, 13.64567]
+      }
+    }
+  ]
+}

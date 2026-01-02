@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panganiban Beach",
+        "categories": ["BEACH"],
+        "description": "A pristine beach in Panganiban",
+        "municipality": "PANGANIBAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.28456, 13.86789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuwad-Tuwadan Lagoon",
+        "categories": ["NATURE", "VIEWPOINT"],
+        "description": "A natural lagoon in Panganiban",
+        "municipality": "PANGANIBAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.29123, 13.87234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panganiban Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "A historic church in Panganiban",
+        "municipality": "PANGANIBAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.28234, 13.86456]
+      }
+    }
+  ]
+}

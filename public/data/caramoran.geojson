@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caramoran Beach Resort",
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT"],
+        "description": "A beach resort in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.12789, 13.96245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guinobatan Falls",
+        "categories": ["WATERFALL", "NATURE"],
+        "description": "A stunning waterfall in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.11256, 13.94523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamangal Beach",
+        "categories": ["BEACH"],
+        "description": "A pristine beach in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.13567, 13.97834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Isidro Labrador Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "A historic church in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.12445, 13.95678]
+      }
+    }
+  ]
+}

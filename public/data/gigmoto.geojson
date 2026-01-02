@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gigmoto Island Resort",
+        "categories": ["ISLAND", "ACCOMMODATION", "RESORT"],
+        "description": "An island resort in Gigmoto",
+        "municipality": "GIGMOTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39456, 13.78934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solong Beach",
+        "categories": ["BEACH"],
+        "description": "A beautiful beach in Gigmoto",
+        "municipality": "GIGMOTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.40123, 13.79567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gigmoto Lighthouse",
+        "categories": ["VIEWPOINT", "HERITAGE", "LANDMARK"],
+        "description": "A historic lighthouse in Gigmoto",
+        "municipality": "GIGMOTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39789, 13.79234]
+      }
+    }
+  ]
+}
